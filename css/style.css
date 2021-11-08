@@ -26,3 +26,33 @@
 hr{
     border: 10px solid white;
 }
+
+.row-justify-center{
+    justify-content: center;
+}
+
+.row-justify-end{
+    justify-content: flex-end;
+}
+
+.col-x2{
+    height: 100px;
+}
+
+.row-middle{
+    align-items: center;
+}
+
+.row-bottom{
+    align-items: flex-end;
+}
+
+.row-space-around{
+    justify-content: space-around;
+    padding: 25px 0;          
+}
+
+.row-space-between{
+    justify-content: space-between;
+    padding: 25px 0;          
+}
