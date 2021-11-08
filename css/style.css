@@ -13,3 +13,16 @@
     line-height: 50px;
 }
 
+.col-nested{
+    height: 80px;
+    padding: 15px;
+}
+
+.row-nested div{
+    background-color: #00E265;
+    border: 1px solid #006CFA;
+}
+
+hr{
+    border: 10px solid white;
+}
